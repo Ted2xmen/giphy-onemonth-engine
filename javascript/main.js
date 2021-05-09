@@ -70,11 +70,6 @@ function pushToDOM(input) {
     });
 
   
-    
-
-
-
-
 
    
 
